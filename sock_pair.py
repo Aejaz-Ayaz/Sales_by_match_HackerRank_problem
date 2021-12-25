@@ -1,8 +1,10 @@
-# a = [1,2,1,2,1,3,2]   # output should be 2
+# Sample input 1:
+# a = [1,2,1,2,1,3,2]     # outputs 2
 
-# a = [10, 20, 20, 10, 10, 30, 50, 10, 20]    # output should be 3
+# Sample input 2:
+# a = [1,2,3]             # outputs 0
 
-a = [1,2,3]             # output should be 0
+a = [10, 20, 20, 10, 10, 30, 50, 10, 20]    # outputs 3
 
 b = set(a)
 
