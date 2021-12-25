@@ -1,3 +1,5 @@
+# This one takes user's inputs
+
 a = input("Enter the list of integers (seperate each integer with a space): ").split()
 
 b = [int(i) for i in a]
